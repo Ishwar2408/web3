@@ -18,7 +18,7 @@ serving as a base for more complex staking platforms with rewards, penalties, an
 - Integrate with a front-end DApp for easy interaction.
 
 ## 5. Contract Address
-`<To be filled after deployment>`
+
 
 <img width="1906" height="906" alt="Screenshot 2025-08-12 145151" src="https://github.com/user-attachments/assets/68b12aa7-0d37-457b-98be-d0f0961f77dd" />
 ## contract address
